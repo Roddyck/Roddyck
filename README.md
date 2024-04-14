@@ -1,16 +1,19 @@
-### Hi there 👋
+### Roddyck
 
-<!--
-**Roddyck/Roddyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy who likes programming, math (am i really?), dye his hair blue occasionally, building stupid
+or not so much projects and make his workflow nice and smooth
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+* Programming
+  * Go (for web dev, some stuff like echo)
+  * Python (pytorch, numpy, matplotlib, little bit of django)
+  * Javascript (react)
+  * HTMX is cool
+  * Rust
+* Math
+  * Algebra
+  * Calculus
+ 
+```
+Yeah, I use neovim btw
+```
