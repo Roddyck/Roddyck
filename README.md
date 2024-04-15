@@ -7,7 +7,7 @@ or not so much projects and make his workflow nice and smooth
 * Programming
   * Go (for web dev, some stuff like echo)
   * Python (pytorch, numpy, matplotlib, little bit of django)
-  * Javascript (react)
+  * Typescript/Javascript (react)
   * HTMX is cool
   * Rust
 * Math
